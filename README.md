@@ -1,3 +1,2 @@
 # Christmas-WebSite 
-Proiect de semestru la Programare Web
-Pagina web cu tematica Craciun si un joc in JS cu aceeasi tematica
+Proiect de semestru la Programare Web. Site web si un joc in JS cu tematica Craciun.
